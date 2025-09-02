@@ -74,13 +74,6 @@ https://github.com/othneildrew/Best-README-Template -->
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-## License or Author
-  * Uditya Laad
-
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
