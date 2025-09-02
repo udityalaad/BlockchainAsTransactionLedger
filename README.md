@@ -45,7 +45,7 @@ https://github.com/othneildrew/Best-README-Template -->
 ## Built With
   &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Java.png" alt="Java_Logo" width="85"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/IntelliJ.png" alt="IntelliJ_Logo" width="75">
 
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Solidity </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> IntelliJ </i></b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Java </i></b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> IntelliJ </i></b>
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
