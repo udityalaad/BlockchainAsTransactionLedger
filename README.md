@@ -98,9 +98,8 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-  * [Open Source Stack, Openzeppelin](https://www.openzeppelin.com/open-source-stack)
-  * [Remix Resources](https://remix-project.org/?lang=en)
-  * [github.com/othneildrew/Best-README-Template/](https://github.com/othneildrew/Best-README-Template)
+  * [Bitcoin and Cryptocurrency Technologies, Coursera, Princeton University (Arvind Narayanan, Associate Professor)](https://www.coursera.org/learn/cryptocurrency)
   * [Blockchain Wallpaper, Forbes](https://www.forbes.com/sites/digital-assets/article/what-is-a-blockchain/)
+  * [github.com/othneildrew/Best-README-Template/](https://github.com/othneildrew/Best-README-Template)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
